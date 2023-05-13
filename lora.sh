@@ -1,3 +1,4 @@
+mkdir /content/stable-diffusion-webui/models/Lora
 cd /content/stable-diffusion-webui/models/Lora
 
 
