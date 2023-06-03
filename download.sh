@@ -6,6 +6,8 @@ cd /content/stable-diffusion-webui/models/Stable-diffusion
 # AbyssOrangeMix3
 wget https://civitai.com/api/download/models/17233 --content-disposition
 
+wget https://civitai.com/api/download/models/57618 --content-disposition
+
 # Perfect World
 #wget https://civitai.com/api/download/models/65269 --content-disposition
 
