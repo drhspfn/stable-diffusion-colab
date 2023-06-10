@@ -23,6 +23,6 @@ wget https://civitai.com/api/download/models/61391  --content-disposition
 wget https://civitai.com/api/download/models/20546 --content-disposition
 
 
-# https://civitai.com/api/download/models/23250
+# https://civitai.com/models/9025/breastinclass-better-bodies
 # <lora:breastinclassbetter_v141:0.5>
 wget https://civitai.com/api/download/models/23250 --content-disposition
