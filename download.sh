@@ -5,12 +5,15 @@ cd /content/stable-diffusion-webui/models/Stable-diffusion
 
 
 # Hassaku (hentai model)
+# https://civitai.com/models/2583/hassaku-hentai-model
 wget https://civitai.com/api/download/models/62528 --content-disposition
 
 # MeinaHentai
+# https://civitai.com/models/12606/meinahentai
 wget https://civitai.com/api/download/models/64046 --content-disposition
 
 # Grapefruit (hentai model)
+# https://civitai.com/models/24383/grapefruit-hentai-model
 wget https://civitai.com/api/download/models/29179 --content-disposition
 
 # AbyssOrangeMix3
