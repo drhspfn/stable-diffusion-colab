@@ -53,4 +53,6 @@
     * `pussy sandwich`
     * `wget https://civitai.com/api/download/models/62276 --content-disposition`
 
-
+11. [Glory Wall](https://civitai.com/models/58083/glory-wall)
+    * `glory wall, through wall, stationary restraints, photo(object)`
+    * `wget https://civitai.com/api/download/models/62529 --content-disposition`
