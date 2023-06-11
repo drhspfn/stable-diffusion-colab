@@ -60,3 +60,7 @@
 11. [Yet another Nahida(Genshin Impact) LoRA](https://civitai.com/models/16923/yet-another-nahidagenshin-impact-lora)
     * `nahida_genshin, cross-shaped pupils, default_dress, green cape`
     * `wget https://civitai.com/api/download/models/21618 --content-disposition`
+
+11. [Kamisato Ayaka (Springbloom Missive) | Genshin Impact | 3in1 LoRA](https://civitai.com/models/12566/kamisato-ayaka-springbloom-missive-or-genshin-impact-or-3in1-lora)
+    * `kamisato ayaka \ kamisato ayaka (springbloom missive), kamisato ayaka, official alternate hairstyle, official alternate costume, blunt bangs, butterfly hair ornament, hair flower, blue dress, grey eyes, light blue hair, mole under eye`
+    * `wget https://civitai.com/api/download/models/14816 --content-disposition`
