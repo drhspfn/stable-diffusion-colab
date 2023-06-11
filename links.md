@@ -64,3 +64,8 @@
 11. [Kamisato Ayaka (Springbloom Missive) | Genshin Impact | 3in1 LoRA](https://civitai.com/models/12566/kamisato-ayaka-springbloom-missive-or-genshin-impact-or-3in1-lora)
     * `kamisato ayaka \ kamisato ayaka (springbloom missive), kamisato ayaka, official alternate hairstyle, official alternate costume, blunt bangs, butterfly hair ornament, hair flower, blue dress, grey eyes, light blue hair, mole under eye`
     * `wget https://civitai.com/api/download/models/14816 --content-disposition`
+
+
+12. [POV Squatting Cowgirl LoRA [1 MB]](https://civitai.com/models/8877/pov-squatting-cowgirl-lora-1-mb)
+    * `<lora:pscowgirl:1>, 1boy,squatting cowgirl position, vaginal, pov,`
+    * `wget https://civitai.com/api/download/models/10490 --content-disposition`
