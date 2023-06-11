@@ -29,9 +29,9 @@
     * `CERVIX \ SPREAD PUSSY \ CLITORIS \ URETHRA`
     * `wget https://civitai.com/api/download/models/25584 --content-disposition`
    
-5. [Spread pussy [LORA]](https://civitai.com/models/21317/spread-pussy-lora)
-    * `spread_pussy`
-    * `wget https://civitai.com/api/download/models/25375 --content-disposition`
+5. [Spread pussy](https://civitai.com/models/19669/real-spread-pussyexperimental)
+    * `uncensored, realspreadpussy`
+    * `wget https://civitai.com/api/download/models/30420 --content-disposition`
 
 6. Cute_girl_mix4
     * `mix4`
