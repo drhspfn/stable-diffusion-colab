@@ -5,6 +5,10 @@ cd /content/stable-diffusion-webui/models/Lora
 wget https://civitai.com/api/download/models/16677 --content-disposition
 wget https://civitai.com/api/download/models/23250 --content-disposition
 
+# Paimon's paintings style (Genshin impact stickers)
+# chibi / white background / simple background / thick outline
+wget https://civitai.com/api/download/models/31475 --content-disposition
+
 # [Tsumasaky] Sucrose - Genshin Impact LoRA
 # sucrose /(genshin impact/)
 wget https://civitai.com/api/download/models/6208 --content-disposition
