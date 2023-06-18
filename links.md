@@ -12,6 +12,10 @@
     * `wget https://civitai.com/api/download/models/29179 --content-disposition`
 
 # Lora
+* [Yae Miko Genshin Impact | Character Lora 1200](https://civitai.com/models/42778/yae-miko-genshin-impact-or-character-lora-1200)
+    * `yaemikodef, yaemikornd, <lora:yaemiko1-000008>`
+    * `wget https://civitai.com/api/download/models/47455 --content-disposition`
+
 
 1. Paimon's paintings style (Genshin impact stickers)
     * `chibi / white background / simple background / thick outline`
