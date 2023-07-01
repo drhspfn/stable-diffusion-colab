@@ -73,3 +73,7 @@
 12. [POV Squatting Cowgirl LoRA [1 MB]](https://civitai.com/models/8877/pov-squatting-cowgirl-lora-1-mb)
     * `<lora:pscowgirl:1>, 1boy,squatting cowgirl position, vaginal, pov,`
     * `wget https://civitai.com/api/download/models/10490 --content-disposition`
+
+13. [Traditional Maid Dress](https://civitai.com/models/22702/traditional-maid-dress)
+    * `traditional maid, <lora:TraditionalMaid:0.6>`
+    * `wget https://civitai.com/api/download/models/27109 --content-disposition`
