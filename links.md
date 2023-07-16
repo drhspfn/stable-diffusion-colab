@@ -10,7 +10,15 @@
 3. MeinaHentai
     * [Civitai](https://civitai.com/models/24383/grapefruit-hentai-model)
     * `wget https://civitai.com/api/download/models/29179 --content-disposition`
+4. Anime Pastel Dream
+   * [Civitai](https://civitai.com/models/23521/anime-pastel-dream)
+   * `wget https://civitai.com/api/download/models/28100 --content-disposition`
 
+5. DIvineAnimeMix
+   * [Civitai](https://civitai.com/models/95587/divineanimemix)
+   * `wget https://civitai.com/api/download/models/102053 --content-disposition`
+  
+     
 # Lora
 * [Yae Miko Genshin Impact | Character Lora 1200](https://civitai.com/models/42778/yae-miko-genshin-impact-or-character-lora-1200)
     * `yaemikodef, yaemikornd, <lora:yaemiko1-000008>`
