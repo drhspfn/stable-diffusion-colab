@@ -87,3 +87,6 @@
 13. [Traditional Maid Dress](https://civitai.com/models/22702/traditional-maid-dress)
     * `traditional maid, <lora:TraditionalMaid:0.6>`
     * `wget https://civitai.com/api/download/models/27109 --content-disposition`
+14. [some perfect pussy](https://civitai.com/models/17105/some-perfect-pussy)
+    * `pussy`
+    * `wget https://civitai.com/api/download/models/20195 --content-disposition`
