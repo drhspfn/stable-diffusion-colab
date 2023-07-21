@@ -4,7 +4,7 @@
 
 # Syles
 * [Paimon's paintings style (Genshin impact stickers)](https://civitai.com/models/26291)
-    * Trigger Words: `missionary vaginal, close up, creampie, <size> breasts, exposed breasts, tanlines, stockings, wearing shirt, spreading legs, legs up, deep`
+    * Trigger Words: `chibi, white background, simple background, thick outline`
     * ID: `31475`
  
 # Other
