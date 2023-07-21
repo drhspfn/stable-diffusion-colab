@@ -11,7 +11,7 @@ Just open [colab_new_.ipynb](https://github.com/drhspfn/stable-diffusion-colab/b
 The first two tabs include the installation of models and Lora. The third, just the start button of the Web UI
 
 # Models and Lora's
-* [Models](https://github.com/drhspfn/stable-diffusion-colab/blob/main/models/models.md)
+* [Models nsfw/no nsfw](https://github.com/drhspfn/stable-diffusion-colab/blob/main/models/models.md)
 * [Lora/Characters](https://github.com/drhspfn/stable-diffusion-colab/blob/main/lora/characrets.md)
 * [Lora/NSFW](https://github.com/drhspfn/stable-diffusion-colab/blob/main/lora/nsfw/nsfw.md)
 
