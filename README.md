@@ -13,6 +13,6 @@ The first two tabs include the installation of models and Lora. The third, just 
 # Models and Lora's
 * [Models nsfw/no nsfw](https://github.com/drhspfn/stable-diffusion-colab/blob/main/models/models.md)
 * [Lora/Characters](https://github.com/drhspfn/stable-diffusion-colab/blob/main/lora/characrets.md)
-* [Lora/NSFW](https://github.com/drhspfn/stable-diffusion-colab/blob/main/lora/nsfw/nsfw.md)
+* [Lora/NSFW](https://github.com/drhspfn/stable-diffusion-colab/blob/main/lora/nsfw.md)
 * [Lora/Style And Other](https://github.com/drhspfn/stable-diffusion-colab/blob/main/lora/styles_and_other.md)
 
