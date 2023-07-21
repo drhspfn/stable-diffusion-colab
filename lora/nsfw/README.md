@@ -1,5 +1,5 @@
 # Download
-`wget https://civitai.com/api/download/models/{lor_id} --content-disposition`
+`wget https://civitai.com/api/download/models/{lora_id} --content-disposition`
 
 # Characters
 * [Yae Miko Genshin Impact | Character Lora 1200](https://civitai.com/models/42778/yae-miko-genshin-impact-or-character-lora-1200)
