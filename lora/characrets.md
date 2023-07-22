@@ -5,6 +5,9 @@
 * [Yae Miko Genshin Impact | Character 1200](https://civitai.com/models/42778/yae-miko-genshin-impact-or-character-lora-1200)
     * Trigger Words: `yaemikodef, yaemikornd, <lora:yaemiko1-000008>`
     * ID: `47455`
+* [Seraph of the end-克鲁鲁·采佩西/Krul Tepes](https://civitai.com/models/13298)
+    * Trigger Words: `krul tepes,pointy ears,pink hair,long hair,red eyes,black pupil,`
+    * ID: `15674`
 * [Barbara Genshin Impact | Character 1500](https://civitai.com/models/42734?modelVersionId=47413)
     * Trigger Words: `barbaradef, barbarasum,barbararnd, <lora:barbara1-000009>`
     * ID: `47413`
