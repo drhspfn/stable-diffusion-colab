@@ -6,6 +6,10 @@
 * [Paimon's paintings style (Genshin impact stickers)](https://civitai.com/models/26291)
     * Trigger Words: `chibi, white background, simple background, thick outline`
     * ID: `31475`
+      
+* [Genshin Impact Landscapes](https://civitai.com/models/10224)
+    * Trigger Words: `mondstadt, liyue, inazuma, sumeru, dragonspine`
+    * ID: `12982`
  
 # Other
 * [Traditional Maid Dress](https://civitai.com/models/22702/traditional-maid-dress)
