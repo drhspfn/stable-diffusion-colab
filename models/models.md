@@ -10,8 +10,8 @@
 * [Grapefruit (hentai model)](https://civitai.com/models/24383/grapefruit-hentai-model)
     * ID: `29179`
 
-* [REALISM | ChilloutMix](https://civitai.com/models/6424/chilloutmix)
-     * ID: `11745`
+* [REALISM | Perfect World 完美世界](https://civitai.com/models/8281/perfect-world)
+     * ID: `129687`
        
 ## NO NSFW
 * [Anime Pastel Dream](https://civitai.com/models/23521/anime-pastel-dream)
