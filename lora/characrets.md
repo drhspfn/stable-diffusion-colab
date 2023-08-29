@@ -8,6 +8,9 @@
 * [Clara Honkai Star Rail Lora](https://civitai.com/models/56454/clara-honkai-star-rail-lora)
     * Trigger Words: `clara, honkai_star_rail`
     * ID: `60876`
+* [Genshin Impact-诺艾尔/Noelle](https://civitai.com/models/9071/genshin-impact-noelle)
+    * Trigger Words: `noelle_\(genshin_impact\), 1girl,(green_eyes:1.2//),silver hair, short_hair, medium_breasts, rose, red_flower,hair_flower`
+    * ID: `10719`
 * [Seraph of the end-克鲁鲁·采佩西/Krul Tepes](https://civitai.com/models/13298)
     * Trigger Words: `krul tepes,pointy ears,pink hair,long hair,red eyes,black pupil,<lora:Krul Tepes>`
     * ID: `15674`
